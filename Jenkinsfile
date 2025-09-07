@@ -15,7 +15,7 @@ pipeline {
             }
         }
     }
-
+    
     post {
         success {
             echo "✅ HTML Project pipeline completed successfully!"
